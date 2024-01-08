@@ -11,8 +11,8 @@ Below the distribution of the unit types is shown. It shows that we have enough 
  
 
 a.	How this change differs between Ontario and Quebec
-In our data analysis, a notable challenge arises with city names, specifically Ottawa-Gatineau area, which are labeled in three distinct ways: under Ontario, Quebec, and an unspecified category (Ontario/Quebec), leading to uncertainty about their precise geographic allocation for last set.
-Looking at the graphs, prices within the unspecified category closely align with Ottawa prices, consistently lower, suggesting a possible association with Ottawa's suburbs. It was decided to keep this data in a separate category to avoid any affect on the Ottawa  area data. As can be seen, one-third of our data is categorized in the unspecified category.
+In our data analysis, a notable challenge arises with city names, specifically the Ottawa-Gatineau area, which are labeled in three distinct ways: under Ontario, Quebec, and an unspecified category (Ontario/Quebec), leading to uncertainty about their precise geographic allocation for the last set.
+Looking at the graphs, prices within the unspecified category closely align with Ottawa prices, consistently lower, suggesting a possible association with Ottawa's suburbs. It was decided to keep this data in a separate category to avoid any effect on the Ottawa  area data. As can be seen, one-third of our data is categorized in the unspecified category.
 
   
 
