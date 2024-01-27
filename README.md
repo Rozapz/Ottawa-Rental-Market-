@@ -32,20 +32,20 @@ Using the Seaborn library, a popular Python data visualization tool a heatmap wa
 
  
 
-In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. Showing that the price effects of unit structure are becoming less. The trend of price for the other types are the same and close to each other.
+In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. Showing that the price effects of the unit structure are becoming less. The trend of price for the other types are the same and close to each other.
  
 	
 c.	How the overall average compares to Toronto, Montreal, and Vancouver areas
 As we can see the rental prices in Ottawa-Gatineau, Toronto, Montreal, and Vancouver varied significantly. On average, Toronto and Vancouver tended to have higher rental costs compared to Ottawa-Gatineau and Montreal.
 
  
-In this graph, the box plot of the rent data for each major city for a two bedroom apartment from 2021 to 2022 is presented. As can be seen Ottawa-Gatineau area has the widest distribution in the rental market. This is caused by difference in rental price in Ottawa and Gatineau and effecting the average rental in this area.
+In this graph, the box plot of the rent data for each major city for a two-bedroom apartment from 2021 to 2022 is presented. As can be seen, the Ottawa-Gatineau area has the widest distribution in the rental market. This is caused by the difference in rental prices in Ottawa and Gatineau and affects the average rental in this area.
  
  
 
 2)	Provide any additional findings you discovered and found interesting.
 
-Ottawa is hiding in the data by representing itself as Ottawa-Gatineau Area! Here you can see the two bedrooms apartments average rent for 2022 in each city. Ottawa should be ranked 7th but including Gatineau data it goes to 16th.
+Ottawa is hiding in the data by representing itself as the Ottawa-Gatineau Area! Here you can see the two-bedroom apartment average rent for 2022 in each city. Ottawa should be ranked 7th but including Gatineau data it goes to 16th.
 
  
 
