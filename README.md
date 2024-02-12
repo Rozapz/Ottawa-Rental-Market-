@@ -50,17 +50,17 @@ Ottawa is hiding in the data by representing itself as the Ottawa-Gatineau Area!
  
 
 
-Surprise high rent city for me was Yellowknife with 1815$ for a two bedroom in 2022 as you can see in the Tableau map below. 
+Surprise high rent city for me was Yellowknife with 1815$ for a two-bedroom in 2022 as you can see in the Tableau map below. 
  
 
-You need to be at least 100Km away from Toronto to save 900$ on rent with the information from 2022 dataset!
+You need to be at least 100 km away from Toronto to save 900$ on rent with the information from the 2022 dataset!
  
 
 
 
 3)	Compare the rent growth to the Consumer Price Index (CPI)
 Consumer Price Index was obtained from this website:   https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501
-And full data was imported and was compared to our data. The base year was 2002 so had to bring 2002 to 2022 data for this analysis on both datasets.
+Full data was imported and compared to our data. The base year was 2002 so had to bring 2002 to 2022 data for this analysis on both datasets.
 
 In the first graph, the all-item CPI of Canada is compared to the rent growth CPI that the initial data showed. In the second graph, the focus is Ottawa-Gatineau area. As the CPI is calculated using whole Canada rent from 2002, the CPI for Ottawa-Gatineau starts from 140. It can be seen that the trend is similar up to 2019 and afterward it rising more rapidly.
 
