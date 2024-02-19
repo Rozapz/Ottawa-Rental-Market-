@@ -8,23 +8,25 @@ Prices followed a steady upward trend until 2018, and since then, there has been
 
 ![Image](Data/rent_per_year_per_unit_type.png)
 
+
  
 
 a.	How this change differs between Ontario and Quebec
 In our data analysis, a notable challenge arises with city names, specifically the Ottawa-Gatineau area, which are labeled in three distinct ways: under Ontario, Quebec, and an unspecified category (Ontario/Quebec), leading to uncertainty about their precise geographic allocation for the last set.
 Looking at the graphs, prices within the unspecified category closely align with Ottawa prices, consistently lower, suggesting a possible association with Ottawa's suburbs. It was decided to keep this data in a separate category to avoid any effect on the Ottawa  area data. As can be seen, one-third of our data is categorized in the unspecified category.
 
-![Image](Data/Quebec_Vs_Ontario_bachelor.png)  
 
-
+![Image](Data/Quebec_Vs_Ontario.png)  
 
 The price trends in Gatineau and Ottawa closely mirror each other, yet consistently, the prices in Gatineau are lower across all types of units.
 
- 	 
- 	 
+![Image](Data/Quebec_Vs_Ontario_bachelor.png)  
 
+![Image](Data/Quebec_Vs_Ontario_one_bedroom.png)  
 
+![Image](Data/Quebec_Vs_Ontario_two_bedroom.png)  
  
+![Image](Data/Quebec_Vs_Ontario_three_bedroom.png)  
 
 b.	Visualization(s) that clearly depict how the “Type of Structure” may or may not contribute to different rental pricing
 
