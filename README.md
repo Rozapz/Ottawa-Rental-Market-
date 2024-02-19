@@ -24,15 +24,15 @@ The price trends in Gatineau and Ottawa closely mirror each other, yet consisten
 
 ![Image](Data/Quebec_Vs_Ontario_one_bedroom.png)  
 
-![Image](Data/Quebec_Vs_Ontario_two_bedroom.png)  
+![Image](Data/Quebec_Vs_Ontario_Two_bedroom.png)  
  
-![Image](Data/Quebec_Vs_Ontario_three_bedroom.png)  
+![Image](Data/Quebec_Vs_Ontario_Three_bedroom.png)  
 
 b.	Visualization(s) that clearly depict how the “Type of Structure” may or may not contribute to different rental pricing
 
 Using the Seaborn library, a popular Python data visualization tool a heatmap was created, a graphical representation of data in a matrix format where colors represent correlation values. The visualizations clearly show that rental prices are primarily linked to the year and type of units, rather than the type of structure. This indicates that the type of building has minimal impact on rental rates.
 
- 
+ ![Image](Data/heatmap.png) 
 
 In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. Showing that the price effects of the unit structure are becoming less. The trend of price for the other types are the same and close to each other.
  
