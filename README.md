@@ -34,13 +34,14 @@ Using the Seaborn library, a popular Python data visualization tool a heatmap wa
 
  ![Image](Data/heatmap.png) 
 
-In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. Showing that the price effects of the unit structure are becoming less. The trend of price for the other types are the same and close to each other.
+In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. Showing that the price effects of the unit structure are becoming less. The trend of price for the other types is the same and close to each other.
  
 	
 c.	How the overall average compares to Toronto, Montreal, and Vancouver areas
 As we can see the rental prices in Ottawa-Gatineau, Toronto, Montreal, and Vancouver varied significantly. On average, Toronto and Vancouver tended to have higher rental costs compared to Ottawa-Gatineau and Montreal.
 
- 
+ ![Image](Data/Ottawa_Vs_Montreal_Vs_Toronto_VS_Vancouver.png) 
+
 In this graph, the box plot of the rent data for each major city for a two-bedroom apartment from 2021 to 2022 is presented. As can be seen, the Ottawa-Gatineau area has the widest distribution in the rental market. This is caused by the difference in rental prices in Ottawa and Gatineau and affects the average rental in this area.
  
  
@@ -63,6 +64,11 @@ You need to be at least 100 km away from Toronto to save 900$ on rent with the i
 3)	Compare the rent growth to the Consumer Price Index (CPI)
 Consumer Price Index was obtained from this website:   https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501
 Full data was imported and compared to our data. The base year was 2002 so had to bring 2002 to 2022 data for this analysis on both datasets.
+
+ ![Image](Data/CPI_canada.png) 
+ 
+ ![Image](Data/CPI_Ottawa_VS_canada.png) 
+
 
 In the first graph, the all-item CPI of Canada is compared to the rent growth CPI that the initial data showed. In the second graph, the focus is Ottawa-Gatineau area. As the CPI is calculated using whole Canada rent from 2002, the CPI for Ottawa-Gatineau starts from 140. It can be seen that the trend is similar up to 2019 and afterward it rising more rapidly.
 
