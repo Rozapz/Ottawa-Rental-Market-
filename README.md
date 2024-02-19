@@ -1,4 +1,4 @@
-# Ottawa-Rental-Market-
+# Ottawa Rental Market
 1)	Provide one or more visualizations that clearly explain how rental costs have changed in the Ottawa-Gatineau area over the last 10 years.
 
 
