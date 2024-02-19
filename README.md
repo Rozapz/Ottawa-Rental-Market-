@@ -3,10 +3,10 @@
 
 
 Prices followed a steady upward trend until 2018, and since then, there has been a noticeable shift in growth patterns, reflecting the dynamic nature of the market. A similar trend can be seen in all unit types.
-![Image](Data/Ottawa-Gatineau Area Average Rent by Year.png)
+![Image](Data/Ottawa_Gatineau_Area_Average_Rent_by_Year.png)
    
 
-![Image](Data/rent per year per unit type.png)
+![Image](Data/rent_per_year_per_unit_type.png)
 Below the distribution of the unit types is shown. It shows that we have enough data in each category for the analysis. Another observation is that the Bachelor units inventory is less than the other three.
  
  
