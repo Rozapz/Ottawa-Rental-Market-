@@ -70,7 +70,7 @@ Full data was imported and compared to our data. The base year was 2002 so had t
  ![Image](Data/CPI_Ottawa_VS_canada.png) 
 
 
-In the first graph, the all-item CPI of Canada is compared to the rent growth CPI that the initial data showed. In the second graph, the focus is Ottawa-Gatineau area. As the CPI is calculated using whole Canada rent from 2002, the CPI for Ottawa-Gatineau starts from 140. It can be seen that the trend is similar up to 2019 and afterward it rising more rapidly.
+In the first graph, the all-item CPI of Canada is compared to the rent growth CPI that the initial data showed. In the second graph, the focus is the Ottawa-Gatineau area. As the CPI is calculated using whole Canada rent from 2002, the CPI for Ottawa-Gatineau starts from 140. It can be seen that the trend is similar up to 2019 and afterward, it rising more rapidly.
 
    
 
