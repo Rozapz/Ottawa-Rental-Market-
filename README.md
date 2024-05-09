@@ -1,5 +1,5 @@
 # Ottawa Rental Market
-1)	Provide one or more visualizations that clearly explain how rental costs have changed in the Ottawa-Gatineau area over the last 10 years.
+1)	Provide one or more visualizations explaining how rental costs have changed in the Ottawa-Gatineau area over the last 10 years.
 
 
 Prices followed a steady upward trend until 2018, and since then, there has been a noticeable shift in growth patterns, reflecting the dynamic nature of the market. A similar trend can be seen in all unit types.
