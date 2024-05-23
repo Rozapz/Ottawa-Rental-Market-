@@ -34,7 +34,7 @@ Using the Seaborn library, a popular Python data visualization tool a heatmap wa
 
  ![Image](Data/heatmap.png) 
 
-In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. Showing that the price effects of the unit structure are becoming less. The trend of price for the other types is the same and close to each other.
+In our analysis, we observed a notable price difference when it comes to row structures with three units or more, indicating a significant compared to other structure types. Interestingly, noted a distinct trend in this category, where prices experienced a drop from 2019 to 2020, followed by a rise in the following years. They are showing that the price effects of the unit structure are becoming less. The trend of price for the other types is the same and close to each other.
  
 	
 c.	How the overall average compares to Toronto, Montreal, and Vancouver areas
@@ -63,7 +63,7 @@ You need to be at least 100 km away from Toronto to save 900$ on rent with the i
 
 3)	Compare the rent growth to the Consumer Price Index (CPI)
 Consumer Price Index was obtained from this website:   https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501
-Full data was imported and compared to our data. The base year was 2002 so had to bring 2002 to 2022 data for this analysis on both datasets.
+Full data was imported and compared to our data. The base year was 2002 so we had to bring 2002 to 2022 data for this analysis on both datasets.
 
  ![Image](Data/CPI_canada.png) 
  
